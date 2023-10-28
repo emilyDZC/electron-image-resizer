@@ -1,6 +1,6 @@
 # electron-image-resizer
 
-Simple image resizer desktop app created by following a tutorial from Traversy Media.
+Simple image resizer desktop app using Electron created by following a tutorial from Traversy Media.
 
 Select new dimensions for the image and the new version will be saved to your local filesystem.
 
